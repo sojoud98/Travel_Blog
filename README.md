@@ -1,7 +1,7 @@
 # Travel Blog
 Android App where you can view travel blogs coming from an API.
 
-See [video](https://studio.youtube.com/video/OtUfZDhK-Y8)
+See [video](https://www.youtube.com/watch?v=OtUfZDhK-Y8)
 
 
 Technical details:
